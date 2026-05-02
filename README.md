@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبتي قلبي ناداك في الليل
+> روحي معاك في كل مكان
+> يا نور عيني الهوى لك دليل
+> خذيني بحضنك طول الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
