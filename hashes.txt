@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sokootak Rad
+
+This log tracks the cryptographic history and versioning for the song **Sokootak Rad** (sokootak-rad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:35:54.814034 | `v1` | `28d3ec46c4bed9b2f283bdfe484973056437b871c526b7c59c07eb53a01a706b` | `0d97bd67b60c847ad38a68a4ac93f15a154838597e64fdf78c3316a236bc2d82` | `2026-05-08_sokootak-rad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
